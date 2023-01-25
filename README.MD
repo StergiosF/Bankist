@@ -48,7 +48,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/StergiosFotoglou/bankist.git
+git clone https://github.com/StergiosFotoglou/bankist-app.git
 ```
 
 2. Install NPM packages

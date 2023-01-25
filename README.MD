@@ -15,7 +15,7 @@ Log in credentials:
 
 ## Deployment
 
-Deployed Website: https://bankist-app-stergiosf.netlify.app/
+Deployed Website: https://bankist-app-stergiosf.netlify.app
 
 [![bankist-app.png](./bankist-app.PNG)](https://bankist-app-stergiosf.netlify.app/)
 

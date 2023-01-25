@@ -1,4 +1,13 @@
 {
+  "name": "bankist-app",
+  "version": "1.0.0",
+  "description": "Bank application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Stergios Fotoglou",
   "devDependencies": {
     "parcel": "^2.8.3"
   }

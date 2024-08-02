@@ -35,14 +35,6 @@ To get started with project just simply fork this repo or download locally on yo
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-Start with the latest version of NPM to avoid any errors:
-
-```sh
-npm install npm@latest -g
-```
-
 ### Installation
 
 1. Clone the repo
@@ -54,5 +46,12 @@ git clone https://github.com/StergiosFotoglou/bankist-app.git
 2. Install NPM packages
 
 ```sh
-npm install
+npm install npm@latest -g
 ```
+
+3. Start a local server for the project
+
+```sh
+npm start
+```
+

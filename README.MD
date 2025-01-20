@@ -1,4 +1,4 @@
-# ∞ Bankist Application
+# 💵 Bankist Application
 
 Bankist is a fictitious and minimalistic online banking application that allows the user to:
 
@@ -8,7 +8,7 @@ Bankist is a fictitious and minimalistic online banking application that allows 
 - Request a loan from the bank
 - Delete their account
 
-Log in credentials:
+Log-in credentials:
 
 - username: sf | password: 1111
 - username: gc | password 2222
@@ -19,7 +19,7 @@ Deployed Website: https://bankist-app-stergiosf.netlify.app
 
 [![bankist-app.png](./bankist-app.PNG)](https://bankist-app-stergiosf.netlify.app/)
 
-Bankist app is a minimal soothing design along with functionality to sign into account for further activities. Simply click on login and type the user credential provided on screen. This app uses modern JavaScript tools, such as Parcel to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5.
+Bankist app is a minimal soothing design along with functionality to sign into account for further activities. Simply click on login and type the user credential provided on the screen. This app uses modern JavaScript tools, such as Parcel to bundle the modules and Babel to convert ES6, ES7 and ES8 back to ES5.
 
 ## Built With
 
@@ -31,7 +31,7 @@ Bankist app is a minimal soothing design along with functionality to sign into a
 
 ## Getting Started
 
-To get started with project just simply fork this repo or download locally on your System.
+To get started with the project simply fork this repo or download it locally on your System.
 
 To get a local copy up and running follow these simple example steps.
 

@@ -19,7 +19,7 @@ Deployed Website: https://bankist-app-stergiosf.netlify.app
 
 [![bankist-app.png](./bankist-app.PNG)](https://bankist-app-stergiosf.netlify.app/)
 
-Bankist app is a minimal soothing design along with functionality to sign into account for further activities. Simply click on login and type the user credential provided on the screen. This app uses modern JavaScript tools, such as Parcel to bundle the modules and Babel to convert ES6, ES7 and ES8 back to ES5.
+Bankist is a minimal soothing design app along with functionality to sign into account for further activities. Simply click on login and type the user credential provided on the screen. This app uses modern JavaScript tools, such as Parcel to bundle the modules and Babel to convert ES6, ES7, and ES8 back to ES5.
 
 ## Built With
 
